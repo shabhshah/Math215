@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  30 OCT 2017 23:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  30 OCT 2017 23:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -698,34 +698,47 @@ msy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 2\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 0
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./One.JPG>] [2 <./Prob2Par
-tA.png>] <Five.JPG, id=23, 3276.24pt x 2457.18pt>
+tA.png>] <Prob3.png, id=23, 1199.48125pt x 913.4125pt>
+File: Prob3.png Graphic file (type png)
+ <use Prob3.png>
+Package pdftex.def Info: Prob3.png used on input line 70.
+(pdftex.def)             Requested size: 469.75502pt x 357.72076pt.
+
+[3pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.73 
+      <./Prob2PartB.png>] <Five.JPG, id=32, 3276.24pt x 2457.18pt>
 File: Five.JPG Graphic file (type jpg)
- <use Five.JPG>
-Package pdftex.def Info: Five.JPG used on input line 72.
+
+<use Five.JPG>
+Package pdftex.def Info: Five.JPG used on input line 78.
 (pdftex.def)             Requested size: 469.75502pt x 352.28893pt.
- [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ [4pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.74 
-      <./Prob2PartB.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
-Package atenddvi Info: Last page = 4.
- [4 <./Five.JPG>]
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 78.
+l.80 
+      <./Prob3.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atenddvi Info: Last page = 5.
+ [5 <./Five.JPG>]
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 84.
  (./Lab3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `Lab3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 15209 strings out of 493029
- 271127 string characters out of 6136234
- 344258 words of memory out of 5000000
- 18582 multiletter control sequences out of 15000+600000
+ 15216 strings out of 493029
+ 271205 string characters out of 6136234
+ 345258 words of memory out of 5000000
+ 18586 multiletter control sequences out of 15000+600000
  6984 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,5n,42p,10382b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -734,10 +747,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Lab3.pdf (4 pages, 3443647 bytes).
+Output written on Lab3.pdf (5 pages, 3554473 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 70 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
