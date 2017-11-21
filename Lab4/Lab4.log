@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  31 OCT 2017 00:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  20 NOV 2017 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Lab3
-(./Lab3.tex
+**Lab4
+(./Lab4.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -571,8 +571,8 @@ Package: ocgbase 2016/03/11 v0.6 support package for ocgx2.sty
 \@anim@lineno=\count274
 \@anim@curfield=\count275
 \@anim@@resizeflags=\count276
-) (./Lab3.aux)
-\openout1 = `Lab3.aux'.
+) (./Lab4.aux)
+\openout1 = `Lab4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
@@ -637,9 +637,9 @@ LaTeX Info: Redefining \ref on input line 43.
 LaTeX Info: Redefining \pageref on input line 43.
 LaTeX Info: Redefining \nameref on input line 43.
 
-(./Lab3.out) (./Lab3.out)
+(./Lab4.out) (./Lab4.out)
 \@outlinefile=\write3
-\openout3 = `Lab3.out'.
+\openout3 = `Lab4.out'.
 
 LaTeX Info: Redefining \celsius on input line 43.
 Package gensymb Info: Faking symbols for \degree and \celsius on input line 43.
@@ -680,87 +680,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
-<One.JPG, id=4, 3276.24pt x 2457.18pt>
-File: One.JPG Graphic file (type jpg)
- <use One.JPG>
-Package pdftex.def Info: One.JPG used on input line 54.
-(pdftex.def)             Requested size: 469.75502pt x 352.28893pt.
+<One.PNG, id=4, 450.18187pt x 170.13562pt>
+File: One.PNG Graphic file (type png)
+ <use One.PNG>
+Package pdftex.def Info: One.PNG used on input line 53.
+(pdftex.def)             Requested size: 469.75502pt x 177.54173pt.
 
-<Prob2PartA.png, id=5, 1201.48875pt x 901.3675pt>
-File: Prob2PartA.png Graphic file (type png)
- <use Prob2PartA.png>
-Package pdftex.def Info: Prob2PartA.png used on input line 60.
-(pdftex.def)             Requested size: 469.75502pt x 352.41214pt.
+<Two.PNG, id=6, 799.48688pt x 151.3153pt>
+File: Two.PNG Graphic file (type png)
+ <use Two.PNG>
+Package pdftex.def Info: Two.PNG used on input line 59.
+(pdftex.def)             Requested size: 469.75502pt x 88.90813pt.
 
-<Prob2PartB.png, id=7, 1211.52625pt x 909.3975pt>
-File: Prob2PartB.png Graphic file (type png)
- <use Prob2PartB.png>
-Package pdftex.def Info: Prob2PartB.png used on input line 64.
-(pdftex.def)             Requested size: 469.75502pt x 352.60991pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 65.
+<Four_Hand.png, id=7, 660.4675pt x 309.155pt>
+File: Four_Hand.png Graphic file (type png)
+ <use Four_Hand.png>
+Package pdftex.def Info: Four_Hand.png used on input line 68.
+(pdftex.def)             Requested size: 469.75502pt x 219.89311pt.
+
+<Four_Mat.PNG, id=8, 422.32782pt x 76.03406pt>
+File: Four_Mat.PNG Graphic file (type png)
+ <use Four_Mat.PNG>
+Package pdftex.def Info: Four_Mat.PNG used on input line 72.
+(pdftex.def)             Requested size: 469.75502pt x 84.57513pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./One.JPG>] [2 <./Prob2Par
-tA.png>] <Prob3.png, id=25, 1199.48125pt x 913.4125pt>
-File: Prob3.png Graphic file (type png)
- <use Prob3.png>
-Package pdftex.def Info: Prob3.png used on input line 71.
-(pdftex.def)             Requested size: 469.75502pt x 357.72076pt.
- [3 <./Prob2PartB.png>] <Four.PNG, id=34, 596.2275pt x 541.27219pt>
-File: Four.PNG Graphic file (type png)
- <use Four.PNG>
-Package pdftex.def Info: Four.PNG used on input line 78.
-(pdftex.def)             Requested size: 469.75502pt x 426.46057pt.
- [4 <./Prob3.png>] <Five.JPG, id=42, 3276.24pt x 2457.18pt>
-File: Five.JPG Graphic file (type jpg)
- <use Five.JPG>
-Package pdftex.def Info: Five.JPG used on input line 85.
-(pdftex.def)             Requested size: 469.75502pt x 352.28893pt.
- [5 <./Four.PNG>] <Six.PNG, id=50, 1269.99469pt x 176.15813pt>
-File: Six.PNG Graphic file (type png)
- <use Six.PNG>
-Package pdftex.def Info: Six.PNG used on input line 91.
-(pdftex.def)             Requested size: 469.75502pt x 65.15866pt.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./One.PNG> <./Two.PNG>]
+<Five_Hand.png, id=23, 669.50125pt x 313.17pt>
+File: Five_Hand.png Graphic file (type png)
+ <use Five_Hand.png>
+Package pdftex.def Info: Five_Hand.png used on input line 78.
+(pdftex.def)             Requested size: 469.75502pt x 219.74313pt.
 
-<Seven.PNG, id=51, 1426.57968pt x 211.54031pt>
-File: Seven.PNG Graphic file (type png)
- <use Seven.PNG>
-Package pdftex.def Info: Seven.PNG used on input line 98.
-(pdftex.def)             Requested size: 469.75502pt x 69.6568pt.
- [6 <./Five.JPG> <./Six.PNG>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
-Package atenddvi Info: Last page = 7.
- [7 <./Seven.PNG>]
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 102.
- (./Lab3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
-Package rerunfilecheck Info: File `Lab3.out' has not changed.
+<Five_Mat.PNG, id=24, 483.30562pt x 79.04532pt>
+File: Five_Mat.PNG Graphic file (type png)
+ <use Five_Mat.PNG>
+Package pdftex.def Info: Five_Mat.PNG used on input line 82.
+(pdftex.def)             Requested size: 469.75502pt x 76.83185pt.
+ [2 <./Four_Hand.png> <./Four_Mat.PNG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
+Package atenddvi Info: Last page = 3.
+ [3 <./Five_Hand.png> <./Five_Mat.PNG>]
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 85.
+ (./Lab4.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
+Package rerunfilecheck Info: File `Lab4.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 16298 strings out of 493029
- 290877 string characters out of 6136234
+ 16264 strings out of 493029
+ 290527 string characters out of 6136234
  364978 words of memory out of 5000000
- 19647 multiletter control sequences out of 15000+600000
- 6984 words of font info for 25 fonts, out of 8000000 for 9000
+ 19630 multiletter control sequences out of 15000+600000
+ 4545 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,77p,10382b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,5n,77p,10382b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Lab3.pdf (7 pages, 3594082 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Lab4.pdf (3 pages, 583707 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
